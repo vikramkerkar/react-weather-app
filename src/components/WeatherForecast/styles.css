@@ -1,0 +1,8 @@
+.weather-forecast-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.icon-forecast {
+    font-size:30px
+}
